@@ -1,2 +1,2 @@
 # simple-social
-social website
+social media website somewhat similar to reddit
